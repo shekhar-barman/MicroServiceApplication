@@ -4,10 +4,6 @@
   "relationships": [],
   "fields": [
     {
-      "fieldName": "ID",
-      "fieldType": "Int"
-    },
-    {
       "fieldName": "empName",
       "fieldType": "String"
     },

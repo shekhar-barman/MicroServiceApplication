@@ -1,0 +1,26 @@
+{
+  "microAppsApp": {
+    "employeeInfo": {
+      "home": {
+        "title": "Employee Infos",
+        "createLabel": "Create a new Employee Info",
+        "createOrEditLabel": "Create or edit a Employee Info",
+        "notFound": "No Employee Infos found"
+      },
+      "created": "A new Employee Info is created with identifier {{ param }}",
+      "updated": "A Employee Info is updated with identifier {{ param }}",
+      "deleted": "A Employee Info is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Employee Info {{ id }}?"
+      },
+      "detail": {
+        "title": "Employee Info"
+      },
+      "empName": "Emp Name",
+      "designation": "Designation",
+      "mobile": "Mobile",
+      "dob": "Dob",
+      "remarks": "Remarks"
+    }
+  }
+}
